@@ -1,4 +1,4 @@
-# 💻 100 Days of Code: Python & Full-Stack Web Dev Journey 🚀
+# 100 Days of Code: Python & Full-Stack Web Dev Journey 🚀
 
 Welcome to my **100 Days of Code Challenge**, running from **April 1 to July 9**!  
 In this repository, I’m documenting my journey through an intensive Python and Full-Stack Web Development bootcamp. Every day, I learn something new — and then build a **project** to apply it.
@@ -7,7 +7,7 @@ This challenge includes **100+ real-world projects**, spanning automation, web s
 
 ---
 
-## 📅 What is This Challenge?
+## What is This Challenge?
 
 As part of the **#100DaysOfCode** challenge, I'm committing to code for at least one hour every day for 100 days. Each day, I:
 
@@ -15,43 +15,43 @@ As part of the **#100DaysOfCode** challenge, I'm committing to code for at least
 2. Build a small or medium-sized project to apply what I’ve learned  
 3. Share my progress right here in this repository 🎯
 
-📆 **Start Date:** April 1, 2025  
-🎯 **End Date:** July 9, 2025
+**Start Date:** April 1, 2025  
+**End Date:** July 9, 2025
 
 ---
 
-## 🚀 Topics Covered So Far
+## Topics Covered So Far
 
 Here’s what I’ve been working on (and what’s still to come!):
 
-### 🐍 Python Programming
+### Python Programming
 - Python 3 (Latest)
 - Scripting & Automation
 - Game Dev with `turtle`
 - GUI Apps with `Tkinter`
 - Jupyter Notebook, Google Colab, PyCharm
 
-### 📊 Data Science
+### Data Science
 - Pandas, NumPy
 - Matplotlib, Seaborn, Plotly
 - Scikit-learn
 - Data Analysis Projects
 
-### 🌐 Full-Stack Web Development
+### Full-Stack Web Development
 - HTML5, CSS3, Bootstrap 4
 - Flask Web Framework
 - REST APIs & Authentication
 - WTForms & SQL (SQLite/PostgreSQL)
 - Git, GitHub & Deployment with Heroku, Gunicorn
 
-### 🤖 Automation & Scraping
+### Automation & Scraping
 - Beautiful Soup
 - Selenium WebDriver
 - Requests
 
 ---
 
-## 🧠 Why This Challenge?
+## Why This Challenge?
 
 This challenge helps me:
 
@@ -62,16 +62,15 @@ This challenge helps me:
 
 ---
 
-## 📂 Project Highlights
+## Project Highlights
 
 Here are just a few examples of what I’m building during this challenge:
 
-- 🎮 Blackjack, Snake Game, Pong Game
-- 🤖 Auto Tinder Swiper Bot
-- 💼 LinkedIn Job Application Automation
-- 📬 Birthday Email/SMS Automation
-- 📝 Blog Website with Flask & Authentication
-- 🔌 Create & Host a Public API
-- 📈 Data Science Projects (Lego Sets, Google Trends, etc.)
+- Blackjack, Snake Game, Pong Game
+- Auto Tinder Swiper Bot
+- LinkedIn Job Application Automation
+- Birthday Email/SMS Automation
+- Blog Website with Flask & Authentication
+- Create & Host a Public API
+- Data Science Projects (Lego Sets, Google Trends, etc.)
 
----
