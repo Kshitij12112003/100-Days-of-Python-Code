@@ -13,7 +13,7 @@ As part of the **#100DaysOfCode** challenge, I'm committing to code for at least
 
 1. Study a new concept or tool  
 2. Build a small or medium-sized project to apply what I’ve learned  
-3. Share my progress right here in this repository 🎯
+3. Share my progress right here in this repository 
 
 **Start Date:** April 1, 2025  
 **End Date:** July 9, 2025
