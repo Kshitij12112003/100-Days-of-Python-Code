@@ -1,5 +1,3 @@
-# 100-Days-of-Python-Code
-
 # 💻 100 Days of Code: Python & Full-Stack Web Dev Journey 🚀
 
 Welcome to my **100 Days of Code Challenge**, running from **April 1 to July 9**!  
