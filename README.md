@@ -1,4 +1,4 @@
-# 100 Days of Code: Python & Full-Stack Web Dev Journey 🚀
+# 100 Days of Code: Python & Full-Stack Web Dev Journey 
 
 Welcome to my **100 Days of Code Challenge**, running from **April 1 to July 9**!  
 In this repository, I’m documenting my journey through an intensive Python and Full-Stack Web Development bootcamp. Every day, I learn something new — and then build a **project** to apply it.
